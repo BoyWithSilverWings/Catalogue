@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">PriceLine</string>
+    <string name="enterText">Enter Search Term</string>
+    <string name="search">Search</string>
+    <string-array name="categories">
+        <item>Mobile Phones</item>
+        <item>Tablets</item>
+        <item>Landline Phones</item>
+        <item>Mobile Bluetooth Headsets</item>
+        <item>Mobile Headphone Headsets</item>
+        <item>Mobile Batteries</item>
+        <item>Mobile Chargers</item>
+        <item>Mobile Memory</item>
+        <item>Point Shoots</item>
+        <item>Camcorders</item>
+        <item>DSLRs</item>
+        <item>Binoculars Telescopes</item>
+        <item>Digital Photo Frames</item>
+        <item>Desktops</item>
+        <item>Laptops</item>
+        <item>Monitors</item>
+        <item>Printers Single</item>
+        <item>Printers Multi</item>
+        <item>Scanners</item>
+        <item>Projectors</item>
+        <item>LCD TV</item>
+        <item>LED TV</item>
+        <item>Plasma TV</item>
+        <item>CRT TV</item>
+        <item>Home Theaters</item>
+        <item>Video Players</item>
+        <item>Speakers</item>
+        <item>Music Systems</item>
+        <item>Gaming Consoles</item>
+        <item>iPods</item>
+        <item>MP3 Players</item>
+        <item>MP4 Players</item>
+        <item>Washing Machines</item>
+        <item>Refrigerators</item>
+        <item>Air Conditioners</item>
+        <item>Irons</item>
+        <item>Water Purifiers</item>
+        <item>Vacuum Cleaners</item>
+        <item>Microwave Ovens</item>
+        <item>OTG</item>
+        <item>Induction Cooktops</item>
+        <item>Electric Cookers</item>
+        <item>Mixer Grinder Juicer</item>
+        <item>Hand Blenders</item>
+        <item>Food Processors</item>
+        <item>Sandwich Makers</item>
+        <item>Popup Toasters</item>
+        <item>Coffee Makers</item>
+        <item>Electric Kettles</item>
+        <item>Pen Drives</item>
+        <item>External Hard Disks</item>
+        <item>Data Cards</item>
+        <item>Routers</item>
+        <item>Switches</item>
+        <item>Processors</item>
+        <item>Graphic Cards</item>
+        <item>Rams</item>
+        <item>Motherboards</item>
+        <item>TV Tuners</item>
+        <item>Mouse</item>
+        <item>Keyboards</item>
+        <item>Webcams</item>
+        <item>Laptop Batteries</item>
+        <item>Laptop Adapters</item>
+    </string-array>
+    <string name="prompt">Select Category</string>
+    <string name="title_activity_display">Display Product</string>
+    <string name="action_settings">Settings</string>
+    <string name="noData">No Data Available</string>
+    <string name="sortPrice">Sort by Price</string>
+</resources>
